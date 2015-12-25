@@ -31,7 +31,7 @@
 -----------------------------------------------*/
 body {
   margin: 0;
-  background-color: #dd4444;
+  background-color: rgba(232, 53, 127, 0.85);
   background-image: url('http://nicholaspetersen.is/wp-content/themes/v3.1/images/blackbg1-transparent.png');
   color: white;
   text-align: center;
